@@ -12,4 +12,4 @@ public class CrudRedisApplication {
 		SpringApplication.run(CrudRedisApplication.class, args);
 	}
 
-}
+} 
